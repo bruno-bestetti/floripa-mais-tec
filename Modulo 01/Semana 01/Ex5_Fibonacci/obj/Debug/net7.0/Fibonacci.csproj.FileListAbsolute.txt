@@ -1,0 +1,30 @@
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1 csharp\Lista de exercicios\Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 1\Lista de exercicios\Ex5_Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll
