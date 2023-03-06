@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\bin\Debug\net7.0\ExerciciosM1S02.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\bin\Debug\net7.0\ExerciciosM1S02.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\bin\Debug\net7.0\ExerciciosM1S02.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\bin\Debug\net7.0\ExerciciosM1S02.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\bin\Debug\net7.0\ExerciciosM1S02.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\refint\ExerciciosM1S02.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ExerciciosM1S02.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\Modulo 1\Semana 2\ExerciciosM1S02\obj\Debug\net7.0\ref\ExerciciosM1S02.dll
