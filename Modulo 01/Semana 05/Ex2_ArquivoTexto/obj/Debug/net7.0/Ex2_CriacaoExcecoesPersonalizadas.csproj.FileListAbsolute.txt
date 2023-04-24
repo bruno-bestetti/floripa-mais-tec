@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\bin\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\bin\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\bin\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\bin\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\bin\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\refint\Ex2_CriacaoExcecoesPersonalizadas.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\Ex2_CriacaoExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex2_CriacaoExcecoesPersonalizadas\obj\Debug\net7.0\ref\Ex2_CriacaoExcecoesPersonalizadas.dll

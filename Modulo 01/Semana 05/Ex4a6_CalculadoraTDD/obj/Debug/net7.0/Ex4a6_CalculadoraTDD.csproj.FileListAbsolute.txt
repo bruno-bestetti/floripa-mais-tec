@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\bin\Debug\net7.0\Ex4a6_CalculadoraTDD.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\bin\Debug\net7.0\Ex4a6_CalculadoraTDD.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\bin\Debug\net7.0\Ex4a6_CalculadoraTDD.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\bin\Debug\net7.0\Ex4a6_CalculadoraTDD.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\bin\Debug\net7.0\Ex4a6_CalculadoraTDD.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\refint\Ex4a6_CalculadoraTDD.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\Ex4a6_CalculadoraTDD.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex4a6_CalculadoraTDD\obj\Debug\net7.0\ref\Ex4a6_CalculadoraTDD.dll

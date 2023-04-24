@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\bin\Debug\net7.0\Ex1_SoliciteDoisNumeros.exe
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\bin\Debug\net7.0\Ex1_SoliciteDoisNumeros.deps.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\bin\Debug\net7.0\Ex1_SoliciteDoisNumeros.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\bin\Debug\net7.0\Ex1_SoliciteDoisNumeros.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\bin\Debug\net7.0\Ex1_SoliciteDoisNumeros.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\refint\Ex1_SoliciteDoisNumeros.dll
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.pdb
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\Ex1_SoliciteDoisNumeros.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Documentos\9. Dev\1. FMT\0. FullStack\floripa-mais-tec\Modulo 05\Ex1_SoliciteDoisNumeros\obj\Debug\net7.0\ref\Ex1_SoliciteDoisNumeros.dll
