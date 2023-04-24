@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ex_1ao3.props" />
+</Project>
