@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+
+    <link rel="shortcut icon" href="./src/img/FMTicon.ico"/>
+    <title>Exercícios JavaScript - FMT</title>
+</head>
+
+<body>
+    <header>
+        <p>Floripa Mais Tec </p>
+        <p>FullStack[Estreito] - Módulo 2 Semana 4 - JavaScript</p>
+        <p>Aluno: Bruno Bestetti Prof: Eduardo Worrel</p>
+    </header>
+    <hr>
+    <!-- Exercício 1 -->
+    <section id="ex1">
+        <h1>Exercício 1 <b>Estrutura de Controle de Fluxo (condicional)</b></h1>
+        <h2>Verificador de Número</h2>
+
+        <label for="numero">Insira um número:</label>
+        <input type="number" id="numero" placeholder="Digite um número">
+        <br>
+        <button onclick="verificarNumero()">Verificar</button>
+
+        <p id="resultado1"></p>
+    </section>
+    <hr>
+
+    <!-- Exercício 2 -->
+    <section id="ex2">
+        <h1>Exercício 2 <b>Estrutura de Controle de Fluxo (repetição)</b></h1>
+        <h2>Números de 1 a 20</h2>
+        <button onclick="exibirNumeros()">Exibir</button>
+        <button onclick="ocultaNumeros()">Ocultar</button>
+
+        <ul id="numeros-lista"></ul>
+    </section>
+    <hr>
+
+    <!-- Exercício 3 -->
+    <section id="ex3">
+        <h1>Exercício 3 <b>Funções</b></h1>
+        <h2>Soma de Dois Números</h2>
+
+        <label for="numero1">Número 1:</label>
+        <input type="number" id="numero1">
+
+        <label for="numero2">Número 2:</label>
+        <input type="number" id="numero2">
+        <br>
+        <button onclick="calcularSoma()">Calcular Soma</button>
+
+        <p id="resultado3"></p>
+    </section>
+    <hr>
+
+    <!-- Exercício 4 -->
+
+    <section id="ex4">
+        <h1>Exercício 4 <b>Eventos</b></h1>
+        <button id="meuBotao">Clique Aqui</button>
+
+    </section>
+    <hr>
+
+    <!-- Exercício 4 -->
+
+    <section id="ex5">
+        <h1>Exercício 5 <b>JSON e LocalStorage</b></h1>
+        <p>
+            Crie um objeto JavaScript simples e converta-o em uma string JSON usando JSON.stringify(). <br>
+            Em seguida, salve essa string JSON no LocalStorage e, depois após atualizar a página, recupere e converta-a
+            de volta em um objeto JavaScript usando JSON.parse().
+        </p>
+        <p class="sobreLocalStorage">
+            Para acessar ao LocalStorage: <br>
+            1. Abra DevTools (Ou inspecionar), com o botão direito do mouse no navegador, ou tecla F12 do teclado. <br>
+            2. Abra a guia: "Aplicação" no menu de navegação superior. <br>
+            3. No menu de navegação lateral clique: Armazenamento Local ou Local Storage. <br>
+            4. O conjunto "Chave-Valor" estará na porta http. Ex: <strong>http://http://127.0.0.1:5500/</strong>
+        </p>
+        <p>
+            Objeto: <br>
+            usuario = {
+            nome: "Bruno",
+            idade: 31,
+            cargo: "Administrador"
+            };
+        </p>
+
+        <script>
+            // Criação do objeto JavaScript
+            var usuario = {
+                nome: "Bruno",
+                idade: 31,
+                cargo: "Administrador"
+            };
+
+            // Convertendo o objeto em uma string JSON
+            var usuarioJSON = JSON.stringify(usuario);
+
+            // Salvando a string JSON no LocalStorage
+            localStorage.setItem("usuario", usuarioJSON);
+        </script>
+    </section>
+    <hr>
+
+    <section id="ex6">
+        <h1>Exercício 6 <b>Interval e Timeout</b></h1>
+        <p>"Interval" é uma função que permite a execução repetida de um bloco de código em intervalos regulares,
+            especificados em milissegundos. <br> É comumente usado para criar animações, atualizar informações em tempo
+            real ou executar tarefas periódicas. <br><br>
+            Por outro lado, o "Timeout" é uma função que executa um bloco de código após um determinado período de
+            tempo, também especificado em milissegundos. <br>
+            É útil quando se deseja adicionar atrasos ou agendar a execução
+            de uma função para o futuro.
+        </p>
+    </section>
+    <hr>
+
+    <footer id="Footer">
+        <div class="footer-container">
+            <p>Bruno Bestetti</p>
+            <a href="https://github.com/bruno-bestetti" " target=" _blank"><img src="/src/img/github.png" alt="GitHub"
+                    width="70px"></a></li>
+            <a href="https://www.linkedin.com/in/brunobestetti/" " target=" _blank"><img src="/src/img/linkedin.png"
+                    alt="LinkedIn" width="70px"></a></li>
+        </div>
+    </footer>
+
+    <script src="/script.js"></script>
+
+</body>
+</html>
