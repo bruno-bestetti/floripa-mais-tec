@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Calcumadora IMC</title>
+</head>
+
+<body>
+    <header>
+        <p>Floripa Mais Tec FullStack[Estreito] - Módulo 2 Semana 3 - JavaScript</p>
+        <p>Aluno: Bruno Bestetti Prof: Douglas Cavalcante</p>
+    </header>
+    <hr>
+    <h1>Calculadora de IMC</h1>
+
+    <form>
+        <label for="peso">Peso(em kg):</label>
+        <input type="number" id="peso" name="peso" required>
+
+        <label for="altura">Altura(em metros):</label>
+        <input type="number" step="0,01" id="altura" name="altura" required>
+
+        <button type="button" onclick="calcularIMC()">CalcularIMC</button>
+    </form>
+    <hr>
+    <div id="resultado"></div>
+
+    <h2>Histórico</h2>
+    <ul id="historico"></ul>
+    <hr>
+    <footer id="Footer">
+        <div class="footer-container">
+            <p>Bruno Bestetti</p>
+            <a href="https://github.com/bruno-bestetti" " target=" _blank"><img src="/src/img/github.png"
+                    alt="GitHub" width="70px"></a></li>
+            <a href="https://www.linkedin.com/in/brunobestetti/" " target=" _blank"><img
+                    src="/src/img/linkedin.png" alt="LinkedIn" width="70px"></a></li>
+        </div>
+    </footer>
+    <script src="/script.js"></script>
+</body>
+
+</html>

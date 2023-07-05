@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios Semana 3</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+        <p>Floripa Mais Tec FullStack[Estreito] - Módulo 2 Semana 3 - JavaScript</p>
+        <p>Aluno: Bruno Bestetti</p>
+        <p>Prof: Douglas Cavalcante</p>
+        <nav>
+            <ul>
+                <li><a href="#Exercicio1">Exercício 1 - Variáveis</a></li>
+                <li><a href="#Exercicio2">Exercício 2 - Funções</a></li>
+                <li><a href="#Footer">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="Exercicio1">
+        <div class="Enunciado1">
+            <h1>Exercício 1</h1>
+            <h2>Enunciado</h2>
+            <p>Discorra sobre os tipos de variáveis em javascript e exemplifique com um exemplo cada tipo.</p>
+            <h3>Resposta:</h3>
+            <p>
+                No JavaScript, existem vários tipos de variáveis que podem ser utilizadas para armazenar diferentes
+                tipos de valores. <br>
+                JavaScript é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar
+                explicitamente o tipo de uma variável antes de usá-la. O tipo é inferido automaticamente com base no
+                valor atribuído à variável. <br>
+            </p>
+        </div>
+
+        <!--                              Exercício 1 - Tipos de Variáveis -->
+        <div class="Resposta1">
+            <h3>Variável numérica: <strong>Number</strong></h3>
+            <img src="/src/img/foto-number.jpg" alt="Variável numérica">
+            <p>As variáveis numéricas são usadas para armazenar valores numéricos, como números inteiros ou decimais.
+            </p>
+
+        </div>
+
+        <div class="Resposta1">
+            <h3>Variável de texto: <strong>String</strong></h3>
+            <img src="/src/img/foto-string.jpg" alt="Variável texto">
+            <p>As variáveis de texto são usadas para armazenar sequências de caracteres. Elas são delimitadas por aspas
+                simples ('') ou aspas duplas ("").</p>
+        </div>
+
+        <div class="Resposta1">
+            <h3>Variáveis booleanas: <strong>Boolean</strong></h3>
+            <img src="/src/img/foto-bool.jpg" alt="Variável booleana">
+            <p>As variáveis booleanas podem ter apenas dois valores: true (verdadeiro) ou false (falso). Elas são usadas
+                para representar condições lógicas.</p>
+        </div>
+
+        <div class="Resposta1">
+            <h3>Variáveis de <strong>Array:</strong></h3>
+            <img src="/src/img/foto-array.jpg" alt="Variável array">
+            <p>As variáveis de array são usadas para armazenar uma coleção de valores em uma única variável. Os
+                elementos dentro de um array podem ser de qualquer tipo, incluindo números, strings, booleanos e até
+                mesmo outros arrays.</p>
+
+        </div>
+
+        <div class="Resposta1">
+            <h3>Variáveis de <strong>Objetos:</strong></h3>
+            <img src="/src/img/foto-objeto.jpg" alt="Variável objeto">
+            <p>As variáveis de objeto são usadas para armazenar conjuntos de pares de chave-valor, onde cada chave é uma
+                string que identifica o valor associado a ela. Isso permite organizar e acessar dados de forma
+                estruturada. </p>
+        </div>
+
+        <!--                           Exercício 1 - Declaração de Variáveis - let const var -->
+        <div class="Resposta1">
+            <h2>Declaração de variáveis JS: let | const | var</h2>
+
+            <div class="Resposta1">
+                <h3>Let</h3>
+                <p>O let é usado para declarar variáveis que podem ser reatribuídas posteriormente. <br>
+                    Essas variáveis têm
+                    escopo
+                    de bloco, o que significa que elas só são acessíveis dentro do bloco onde foram declaradas. <br><br>
+
+                    <strong>Dica:</strong>O let é geralmente recomendado quando você precisa alterar o valor da variável
+                    ao
+                    longo do tempo ou quando a variável precisa ter escopo limitado a um bloco específico.
+                </p>
+                <img src="/src/img/let-foto.jpg" alt="Declaração let">
+            </div>
+
+            <div class="Resposta1">
+                <h3>Const</h3>
+                <p>O const é usado para declarar variáveis ​​que não podem ser reatribuídas após a sua inicialização.
+                    Essas
+                    variáveis também têm escopo de bloco. <br><br>
+
+                    <strong>Dica:</strong>O const é recomendado quando você deseja definir uma constante ou um valor que
+                    não
+                    deve ser alterado. É uma boa prática usar o const sempre que possível, pois ajuda a evitar a
+                    reatribuição acidental e torna o código mais legível.
+                </p>
+                <img src="/src/img/const-foto.jpg" alt="Declaração const">
+            </div>
+
+            <div class="Resposta1">
+                <h3>Var</h3>
+                <p>O var era a forma antiga de declarar variáveis em JavaScript. <br>
+                    Ele também tem escopo de função, o que significa que a variável é acessível em todo o escopo da
+                    função onde foi declarada. <br> No entanto, diferentemente do let e do const, <strong>o var não tem
+                        escopo de bloco.</strong><br>
+                    O var ainda é usado em versões mais antigas do JavaScript e pode ter comportamentos inesperados
+                    devido
+                    ao seu escopo de função. <br><br>
+
+                    <strong>Dica:</strong>É recomendado utilizar let ou const em vez de var na maioria dos casos, a
+                    menos
+                    que você precise especificamente do comportamento de escopo de função.
+                </p>
+                <img src="/src/img/var-foto.jpg" alt="Declaração var">
+            </div>
+        </div>
+
+        <!--                             Exercício 2 - Funções -->
+
+    </section>
+    <hr>
+    <section id="Exercicio2">
+        <div class="Enunciado2">
+            <h1>Exercício 2</h1>
+            <h2>Enunciado</h2>
+            <p>Discorra sobre o que é uma função em Javascript e exemplifique com 3 tipos de funções que resolvem
+                determinado problema. <br>
+                <b>Exemplo:</b> Função para calcular IMC, recebe o peso e altura por parâmetros e retorna um resultado
+                numérico.
+
+            <h3>Resposta:</h3>
+            <p>Em JavaScript, uma função é um bloco de código que pode ser reutilizado para realizar uma tarefa
+                específica. Ela recebe um conjunto de parâmetros, executa um conjunto de instruções e, opcionalmente,
+                retorna um valor. As funções são fundamentais na programação, pois permitem organizar e modularizar o
+                código, tornando-o mais legível, reutilizável e fácil de dar manutenção.
+            </p>
+            </p>
+        </div>
+
+        <div class="Resposta2">
+
+
+            <div class="Resposta2">
+                <h3>Função calculadora IMC</h3>
+                <p>Essa função recebe o peso e altura como parâmetros, realiza o cálculo do IMC e retorna o resultado.
+                    <br>
+                    Ela é útil para calcular o índice de massa corporal de uma pessoa com base nos valores informados.
+                </p>
+                <img src="/src/img/function-imc.jpg" alt="Função calculo IMC">
+            </div>
+
+            <div class="Resposta2">
+                <h3>Função encontra maior valor</h3>
+                <p>Essa função recebe um array como parâmetro e itera sobre ele para encontrar o maior valor presente no
+                    array. <br>
+                    Ela é útil quando você precisa encontrar o valor máximo em um conjunto de dados.
+                </p>
+                <img src="/src/img/function-maiorValor.jpg" alt="Função calculo IMC">
+            </div>
+
+            <div class="Resposta2">
+                <h3>Função número par</h3>
+                <p>Essa função recebe um número como parâmetro e verifica se ele é par.<br>
+                    Ela retorna true se o número for par e false caso contrário.<br>
+                    Essa função pode ser utilizada quando você precisa verificar a paridade de um número em seu código.
+                </p>
+                <img src="/src/img/function-par.jpg" alt="Função número par">
+            </div>
+    </section>
+
+    <footer id="Footer">
+        <div class="footer-container">
+            <p>Bruno Bestetti</p>
+            <a href="https://github.com/bruno-bestetti" " target=" _blank"><img src="/src/img/github.png"
+                    alt="GitHub" width="70px"></a></li>
+            <a href="https://www.linkedin.com/in/brunobestetti/" " target=" _blank"><img
+                    src="/src/img/linkedin.png" alt="LinkedIn" width="70px"></a></li>
+        </div>
+    </footer>
+
+</body>
+
+</html>
